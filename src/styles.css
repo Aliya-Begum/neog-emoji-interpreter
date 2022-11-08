@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(224, 233, 108);
+  height: 520px;
+  width: 100%;
+  padding: 3rem 0;
+}
+
+#desc {
+  color: rgb(236, 56, 71);
+}
+
+#heading {
+  margin: 3rem 0;
+}
+
+#input-box {
+  border: 3px solid black;
+  padding: 0.5rem 1rem;
+  border-radius: 0.7rem;
+}
